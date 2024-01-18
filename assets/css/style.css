@@ -314,7 +314,15 @@ li.logo span {
 
 .container {
   width: 95%;
+  /* margin: 0 auto; */
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
 }
+
+/* div.row{
+  display: flex;
+} */
 
 h3 {
   font-weight: 200 bold;
