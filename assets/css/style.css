@@ -417,6 +417,8 @@ b{
 
 .card {
   margin-bottom: 60px;
+  border-radius: 20px;
+  box-shadow: -1px -1px 19px 0px rgba(0,0,0,0.75);
 }
 
 .card .role {
@@ -439,11 +441,16 @@ b{
 
 .card .card-content {
   padding-bottom: 30px;
+  /* border-radius: 50px; */
+  
 }
 
 .card .card-content p {
   padding: 5px 0 0;
+  /* border-radius: 50%; */
 }
+
+
 
 .card h5 {
   font-size: 1.5rem;
