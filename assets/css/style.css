@@ -425,8 +425,8 @@ b{
 
 .card {
   margin-bottom: 60px;
-  border-radius: 20px;
-  box-shadow: -1px -1px 19px 0px rgba(0,0,0,0.75);
+  /* border-radius: 20px; */
+  /* box-shadow: -1px -1px 19px 0px rgba(0,0,0,0.75); */
 }
 
 .card .role {
