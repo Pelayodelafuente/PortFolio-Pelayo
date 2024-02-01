@@ -419,18 +419,18 @@ b{
 }
 
 
-#experiencia .card-action {
+#experience .card-action {
   background-color: rgba(0, 0, 0, 0.02);
   border: none;
 }
 
 
-#experiencia .card .col.s12.m2 a {
+#experience .card .col.s12.m2 a {
   display: block;
 }
 
 
-#experiencia .card .col.s12.m2 a img {
+#experience .card .col.s12.m2 a img {
   max-height: 60px;
 }
 
@@ -493,19 +493,19 @@ a.hoverline:hover {
 }
 
 
-#habilidades .card.large {
+#skills .card.large {
   height: 360px;
 }
 
 
-#habilidades h4 {
+#skills h4 {
   border-bottom: 1px solid #ddd;
   margin-bottom: 30px;
   padding-bottom: 20px;
 }
 
 
-#habilidades .col img.responsive-img {
+#skills .col img.responsive-img {
   margin: 0 auto;
   max-height: 100px;
   padding-bottom: 10px;
@@ -522,7 +522,7 @@ a.hoverline:hover {
 }
 
 
-#experiencia .card-content .row {
+#experience .card-content .row {
   border-bottom: 1px solid #ddd;
   padding-bottom: 10px;
 }
@@ -554,7 +554,7 @@ a.hoverline:hover {
   position: relative;
 }
 
-#experiencia .col.s12.m2 {
+#experience .col.s12.m2 {
   text-align: center;
 }
 
@@ -587,7 +587,7 @@ small {
 
 
 @media (min-width: 1200px) {
-  #experiencia .container {
+  #experience .container {
     width: 860px;
   }
 }
@@ -690,11 +690,11 @@ small {
     font-size: 20px;
     line-height: 24px;
   }
-  #experiencia span.card-title {
+  #experience span.card-title {
     text-align: center;
     display: block;
   }
-  #experiencia span.card-title a {
+  #experience span.card-title a {
     margin: 0;
   }
   i.mdi-navigation-close.right {
