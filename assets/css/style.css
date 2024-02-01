@@ -701,13 +701,13 @@ small {
     position: relative;
     bottom: 15px;
   }
-  #contacto a:not(.btn-floating) {
+  #contact a:not(.btn-floating) {
     text-align: center;
     display: block;
     left: initial;
     bottom: initial;
   }
-  #contacto a.btn-floating.btn-large {
+  #contact a.btn-floating.btn-large {
     display: block;
     text-align: center;
     margin: 0 auto;
