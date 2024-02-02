@@ -548,7 +548,7 @@ a.hoverline:hover {
 }
 
 
-#contacto a:not(.btn-floating) {
+#contact a:not(.btn-floating) {
   bottom: 6px;
   left: 20px;
   position: relative;
