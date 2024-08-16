@@ -587,6 +587,16 @@ small {
 }
 
 
+.exp-flex{
+ /* margin-left: 0px ; */
+ padding-left: 0px;
+}
+
+
+.margin-img{
+  margin-bottom: 20px;
+}
+
 @media (min-width: 1200px) {
   #experience .container {
     width: 860px;
