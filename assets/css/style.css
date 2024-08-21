@@ -19,8 +19,8 @@
 
 
 .presentacion p{
-text-align: justify;
-hyphens: auto;
+text-align: justify !important;
+hyphens: auto !important;
 }
 
 .tracker {
@@ -589,7 +589,7 @@ small {
 
 .teal {  
   background-color: #009688;
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
 
 
