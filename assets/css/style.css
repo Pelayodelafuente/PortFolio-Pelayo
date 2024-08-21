@@ -18,6 +18,11 @@
 }
 
 
+.presentacion p{
+text-align: justify;
+hyphens: auto;
+}
+
 .tracker {
   position: fixed; 
   bottom: 0; 
@@ -584,6 +589,7 @@ small {
 
 .teal {  
   background-color: #009688;
+  border-radius: 10px;
 }
 
 
